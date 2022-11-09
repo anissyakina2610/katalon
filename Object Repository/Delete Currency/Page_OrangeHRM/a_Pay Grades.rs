@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pay Grades</name>
+   <tag></tag>
+   <elementGuidId>d36c044e-6116-4642-9163-68a9166c5a0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2bc3741d-4936-466b-9311-c4f27dacd571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>952e4c7f-1b1a-4474-b4ef-969a581b45e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>14cf31b7-dea0-4bd5-845e-c063b2fa0a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-link</value>
+      <webElementGuid>98957c79-3262-42e7-b17d-76cb658cb37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Grades</value>
+      <webElementGuid>bf6d5140-f154-4046-8179-8b1b1f746269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;--active oxd-topbar-body-nav-tab --parent&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[2]/a[@class=&quot;oxd-topbar-body-nav-tab-link&quot;]</value>
+      <webElementGuid>dbdf4402-9d00-44c8-a2c1-611636dd4941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>dda980b3-6655-4aa6-8fc6-4b3ffc026321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pay Grades')]</value>
+      <webElementGuid>86443e0b-043c-4a54-81d8-9de4be5610d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job'])[1]/following::a[2]</value>
+      <webElementGuid>1d0b9b7b-f10e-4b5f-ab16-d67ecd22dbfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::a[2]</value>
+      <webElementGuid>900c3fdf-4580-42c4-b687-64d6b655a361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/preceding::a[4]</value>
+      <webElementGuid>c61f23df-cc55-416a-bf68-8a582ad549ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/preceding::a[4]</value>
+      <webElementGuid>2e3bba16-de8f-43ba-b95c-f54c367bf282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Grades']/parent::*</value>
+      <webElementGuid>3aaeb291-c1e9-46e5-9839-fdc449bb359f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>7cb14c00-a442-4dcd-88b8-e28ede3d3fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>768b1480-bd79-47b1-a7c4-fb4eeef09dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Pay Grades' or . = 'Pay Grades')]</value>
+      <webElementGuid>caca9009-ba89-48a8-8e79-4764bd17f154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

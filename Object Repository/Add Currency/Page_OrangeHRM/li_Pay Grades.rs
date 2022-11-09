@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pay Grades</name>
+   <tag></tag>
+   <elementGuidId>2b7ee3da-b772-4fed-a917-fa1a8a6f9c7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8d0c14a3-3f1b-48b8-a7b2-d32211cb2adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Grades</value>
+      <webElementGuid>2f2e9595-d676-46a9-9362-11b994903a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;--active oxd-topbar-body-nav-tab --parent&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[2]</value>
+      <webElementGuid>87dff370-6980-4fd8-9fc2-8336684479c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[2]/ul/li[2]</value>
+      <webElementGuid>70c4b154-c789-4c43-b0f8-88adcf94c8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job'])[1]/following::li[2]</value>
+      <webElementGuid>57244e3a-3f8d-49dc-a57a-df39ea6ca7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::li[3]</value>
+      <webElementGuid>893531f6-2d90-4829-b0e8-8aa78d30681f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/preceding::li[4]</value>
+      <webElementGuid>bcfa84e5-4bd8-4151-bbbd-8494994e3567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/preceding::li[5]</value>
+      <webElementGuid>05425507-a4eb-4bd3-a459-a3d189b5ff6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]</value>
+      <webElementGuid>4b1d5956-e555-4a40-82e1-4dade3bf9b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Pay Grades' or . = 'Pay Grades')]</value>
+      <webElementGuid>ec4184ed-7845-42f1-91fc-2e7738d3704f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

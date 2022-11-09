@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_United States Dollar_oxd-icon-button_26c8e6</name>
+   <tag></tag>
+   <elementGuidId>a9598cdf-40ad-4965-b75a-282d089f0b4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4f5016f4-37d1-47cc-86b2-38383678acc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button oxd-table-cell-action-space</value>
+      <webElementGuid>7fc87905-fffe-45f8-9ac5-5bb895b31c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86b22c63-1332-4387-8f85-e90e09058ce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body oxd-card-table-body&quot;]/div[@class=&quot;oxd-table-card --mobile&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;card-center&quot;]/div[@class=&quot;card-header-slot&quot;]/div[@class=&quot;card-item card-header-slot-content --right&quot;]/div[@class=&quot;oxd-table-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]</value>
+      <webElementGuid>f43d7f86-9cbc-4153-9bc3-4d09658d15fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>e8c08c3b-ceb2-4df7-92cd-8f0146e477f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div/div[3]/div/div/div/div/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>a08c943f-24af-4b4d-918d-d5305f68ff71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States Dollar'])[1]/following::button[2]</value>
+      <webElementGuid>17356d6d-11a7-4fb7-8758-a9b6db675fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[2]/following::button[2]</value>
+      <webElementGuid>2a840cd5-1213-4541-a5f6-80c7a09528a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum Salary'])[2]/preceding::button[1]</value>
+      <webElementGuid>3df9cb80-154e-4765-8cd4-58c9d0eca89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum Salary'])[2]/preceding::button[1]</value>
+      <webElementGuid>06154af5-5691-4250-a21a-d224a6630317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[2]</value>
+      <webElementGuid>4070edfc-bb2b-4cc1-b2f0-86e9f1ee28f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>65cddb9b-f8c4-4c53-8fdb-31b782b32fa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

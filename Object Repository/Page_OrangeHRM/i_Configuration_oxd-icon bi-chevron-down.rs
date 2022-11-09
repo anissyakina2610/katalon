@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Configuration_oxd-icon bi-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>9ed988bf-4f1c-4a97-b08f-26a932f2d708</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd9d9f17-11b4-459d-be72-50eac1b7e812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-chevron-down</value>
+      <webElementGuid>01ea9407-4b21-4274-99e3-a1cdd6982365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>with-container</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9b376ba4-f23d-442b-878c-9f8388e330fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;oxd-topbar-body-nav-tab --parent&quot;]/span[@class=&quot;oxd-topbar-body-nav-tab-item&quot;]/i[@class=&quot;oxd-icon bi-chevron-down&quot;]</value>
+      <webElementGuid>f2d54c02-fe2b-4984-a551-644f6971aae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li/span/i</value>
+      <webElementGuid>7077fd00-e09e-44f3-a3e2-6f4774117cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/span/i</value>
+      <webElementGuid>d2a46097-c52b-41ef-9a3b-3d5825f29996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

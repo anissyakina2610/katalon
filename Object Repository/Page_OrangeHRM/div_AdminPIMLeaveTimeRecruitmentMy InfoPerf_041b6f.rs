@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AdminPIMLeaveTimeRecruitmentMy InfoPerf_041b6f</name>
+   <tag></tag>
+   <elementGuidId>067be46b-6c10-4e09-8216-45f7b0d5a0cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34e8c3c4-2c61-4e99-b6fe-d9a83084dcaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout</value>
+      <webElementGuid>221fe471-179a-4e64-a645-43f96f5d8ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzAdminPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration Add SkillNameAlready existsDescription * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>4c694677-ab87-4ea7-a370-191537b676ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]</value>
+      <webElementGuid>b6f46160-f918-4797-a102-0b1ee3549718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div</value>
+      <webElementGuid>8d239f16-5193-46e2-b3e7-86b275b8bb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>b27e40e5-5a2b-4b76-9ebd-de2af111a7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzAdminPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration Add SkillNameAlready existsDescription * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.' or . = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzAdminPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration Add SkillNameAlready existsDescription * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>6e68b463-1db8-4d09-8388-a8edf9fdba4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

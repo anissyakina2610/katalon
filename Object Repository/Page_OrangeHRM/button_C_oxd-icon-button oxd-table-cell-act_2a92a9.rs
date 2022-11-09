@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_C_oxd-icon-button oxd-table-cell-act_2a92a9</name>
+   <tag></tag>
+   <elementGuidId>d7f6bcde-683a-4723-8f49-cc37ab7ffedb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-icon-button.oxd-table-cell-action-space</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51b83559-7672-4a0a-8cd8-e90656ed6ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button oxd-table-cell-action-space</value>
+      <webElementGuid>1e3a64b5-be01-4553-88e1-eb9e5411ae31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65741ba8-9033-4860-af7d-5dbac3efa6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body oxd-card-table-body&quot;]/div[@class=&quot;oxd-table-card --mobile&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;card-center&quot;]/div[@class=&quot;card-header-slot&quot;]/div[@class=&quot;card-item card-header-slot-content --right&quot;]/div[@class=&quot;oxd-table-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]</value>
+      <webElementGuid>636f56fa-1b33-4736-8161-caa9658e7989</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>40db4db0-5ebe-4d0f-ac02-54cb75030299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/div/div/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>aedc7933-04f6-44bc-8ee1-a689dca346de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C#'])[1]/following::button[1]</value>
+      <webElementGuid>5434ca8f-cf5a-437c-816c-189fac481502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::button[1]</value>
+      <webElementGuid>19ba8ee5-3eaf-4e25-be86-3d0886d35883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::button[2]</value>
+      <webElementGuid>761b7aa9-8cbe-40b5-befe-79c7c31633ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programming Language'])[1]/preceding::button[2]</value>
+      <webElementGuid>eb8177c6-ccb8-45d7-8fa9-57b84294308d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/button</value>
+      <webElementGuid>2a01adb0-ecfc-470b-a535-b83e807c763a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>ebb7b0b0-0383-4cd3-a99b-84758c58dbdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

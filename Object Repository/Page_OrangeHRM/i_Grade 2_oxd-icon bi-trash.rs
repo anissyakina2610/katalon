@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Grade 2_oxd-icon bi-trash</name>
+   <tag></tag>
+   <elementGuidId>9f345f28-78ef-4eee-88f9-e4d7d962da11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ac6a05c4-1cd5-4d97-a3f2-72134cd6ed56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-trash</value>
+      <webElementGuid>0beb1351-53f9-4e4a-9de4-e1b0dbe6474f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body oxd-card-table-body&quot;]/div[@class=&quot;oxd-table-card --mobile&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;card-center&quot;]/div[@class=&quot;card-header-slot&quot;]/div[@class=&quot;card-item card-header-slot-content --right&quot;]/div[@class=&quot;oxd-table-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]/i[@class=&quot;oxd-icon bi-trash&quot;]</value>
+      <webElementGuid>6c6f72bf-548f-4440-83b1-781cd5c36e67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div/div/button/i</value>
+      <webElementGuid>f7cb0c00-40d5-4379-80cc-ac6929cd2a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/button/i</value>
+      <webElementGuid>3bf89d9d-c08f-4d4b-814e-550613c2dfca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

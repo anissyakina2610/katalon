@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User Management Job Organization Qualif_12386e</name>
+   <tag></tag>
+   <elementGuidId>3977d8a7-c60c-41d6-b950-b9a02039e563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-topbar-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdda6002-2438-4f85-9f53-d0a5192939f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body</value>
+      <webElementGuid>817f4475-2e07-49dc-b997-1cbede69c74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration </value>
+      <webElementGuid>e5f078c9-1132-4b02-b83f-867bb27f765f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]</value>
+      <webElementGuid>daa23f68-32c2-4eb2-bd12-d35fdf2ca94a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]</value>
+      <webElementGuid>0d32e780-5e59-4388-878e-442db1cb2543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div[2]</value>
+      <webElementGuid>6ea99df0-fd7a-4141-8a23-3bdfb4fb3cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'User Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration ' or . = 'User Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration ')]</value>
+      <webElementGuid>09ab3ac5-8232-4103-a8f1-70f9d8e3f692</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

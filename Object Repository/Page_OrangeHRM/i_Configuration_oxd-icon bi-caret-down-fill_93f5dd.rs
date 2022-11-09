@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Configuration_oxd-icon bi-caret-down-fill_93f5dd</name>
+   <tag></tag>
+   <elementGuidId>f54cdd36-cd06-4b4d-abdc-45c27fa6990f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-caret-down-fill.oxd-userdropdown-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>253f3907-9181-45e1-90dd-19763b777bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-caret-down-fill oxd-userdropdown-icon</value>
+      <webElementGuid>98410ea1-e7f7-4433-9287-b7d6c12c8ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]/i[@class=&quot;oxd-icon bi-caret-down-fill oxd-userdropdown-icon&quot;]</value>
+      <webElementGuid>01cf7a9b-2b5c-48bb-add1-11bd877d2ad6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
+      <webElementGuid>9e2ac419-b01a-4f74-a931-f5b1b04b165f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>ed1a9786-4e7e-44ff-b703-eef38167afee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

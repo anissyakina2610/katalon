@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Secondary Color_oxd-color-picker-indicator</name>
+   <tag></tag>
+   <elementGuidId>468cdd79-3339-40b0-92fb-e64805fe552c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/div/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-color-picker-indicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>446591a2-73fe-4b01-be5f-f63ad9ab8f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-color-picker-indicator</value>
+      <webElementGuid>1f18ef01-06bc-4ff8-a068-45fb940352aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters --offset-column-3&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[@class=&quot;orangehrm-color-input-wrapper&quot;]/div[@class=&quot;oxd-color-input oxd-color-input--active oxd-color-input--focus&quot;]/div[@class=&quot;oxd-color-picker --positon-left&quot;]/div[@class=&quot;oxd-color-picker-indicator&quot;]</value>
+      <webElementGuid>0517c396-e92e-440e-9011-e5432545b2b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>d36dfbcd-81e5-4dc0-bb26-4b34d8fe2420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>f1b3711f-6720-4758-b795-3b5d0e9a2682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

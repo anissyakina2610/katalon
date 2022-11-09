@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>directory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2983369-f668-4a28-a255-4ea486db9462</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6f6cda4-2326-4340-a3f9-01e4a5071531</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6f6cda4-2326-4340-a3f9-01e4a5071531</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

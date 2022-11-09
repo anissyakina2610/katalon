@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Primary Gradient Color 1_oxd-color-inpu_933daf</name>
+   <tag></tag>
+   <elementGuidId>47a59fad-2392-4ffa-bbd3-4c98b5291381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[5]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-color-input.oxd-color-input--focus > div.oxd-color-input-preview</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a3cf8aa-d2db-4168-9bd6-4d0b39505aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-color-input-preview</value>
+      <webElementGuid>d41e4730-2c8d-4f20-8c6a-9ea575bd7dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters --offset-row-3&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[@class=&quot;orangehrm-color-input-wrapper&quot;]/div[@class=&quot;oxd-color-input oxd-color-input--focus&quot;]/div[@class=&quot;oxd-color-input-preview&quot;]</value>
+      <webElementGuid>b79c4758-e4db-4d50-84c0-e9a8c8f8f1c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[5]/div/div[2]/div/div</value>
+      <webElementGuid>b02b2728-03ca-4cda-b9ba-fcab874f1695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div</value>
+      <webElementGuid>25ab358d-f9a4-43e1-b12f-82c8dc499bcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

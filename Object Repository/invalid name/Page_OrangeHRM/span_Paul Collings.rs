@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Paul Collings</name>
+   <tag></tag>
+   <elementGuidId>e2e46bd7-6b72-478a-9738-6d2fbb68047d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-userdropdown-tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55e4589f-8fbd-4c84-ab5e-e1cab8a696f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-tab</value>
+      <webElementGuid>75d5609b-1634-44c6-a5b5-16878474bbdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paul Collings</value>
+      <webElementGuid>0fd5c397-07fe-4a56-8811-6c650c5ac1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]</value>
+      <webElementGuid>5de66360-410b-4ab5-bb9b-5cefc4cdfb20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
+      <webElementGuid>2cdcf36b-cda4-4a14-b730-1788940b96ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>71194d4d-c7a6-4dfe-a17f-e8559941eea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>e15b1191-1fd6-4d70-b25f-e3623ba9e821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Paul Collings' or . = 'Paul Collings')]</value>
+      <webElementGuid>9eee687c-48d2-490e-aed9-4f6d712b7ba3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

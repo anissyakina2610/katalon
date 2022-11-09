@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Optional Fields'</initValue>
+      <name>OF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Custom Fields'</initValue>
+      <name>CF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Data Import'</initValue>
+      <name>DI</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Reporting Methods'</initValue>
+      <name>RM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Termination Reasons'</initValue>
+      <name>TR</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

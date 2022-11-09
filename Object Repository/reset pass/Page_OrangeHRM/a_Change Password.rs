@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change Password</name>
+   <tag></tag>
+   <elementGuidId>8ded6844-3f09-4d75-8e68-24428e59b473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c27f2dee-eb3e-4dee-a242-b3ffb8d2d66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/web/index.php/pim/updatePassword</value>
+      <webElementGuid>7b224285-01bb-4e0c-80f7-133f4107f420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>1bbe8a8f-5eed-474c-9c49-62246a7bea28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-link</value>
+      <webElementGuid>9c997661-86aa-4f81-b584-314d837085b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>de628266-14c7-4f92-9d98-0d97323fbe4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;--active oxd-userdropdown&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[3]/a[@class=&quot;oxd-userdropdown-link&quot;]</value>
+      <webElementGuid>3ded2e56-dde6-48e5-a96e-6448d1a072cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[3]/a</value>
+      <webElementGuid>feb2b9c5-77ab-4171-ab7a-5b842dff39bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Change Password')]</value>
+      <webElementGuid>9c9f4c3e-0f5f-497b-9450-259cf8d7a215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::a[1]</value>
+      <webElementGuid>7c74bc92-520b-43c4-b3d2-170300539746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>f930ab9d-89fd-4664-9db9-67d2dc39b9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/preceding::a[2]</value>
+      <webElementGuid>0eedc9da-e8f3-4c07-b1cc-4b009836bed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Change Password']/parent::*</value>
+      <webElementGuid>91ca42b2-611c-4bfd-b8ad-4be48b1d7c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/web/index.php/pim/updatePassword')]</value>
+      <webElementGuid>87a5c70c-e167-4e29-a5d2-157aa2687c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/a</value>
+      <webElementGuid>9cf07a07-9e56-43be-a4e3-c305e72b9230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/web/index.php/pim/updatePassword' and (text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>fc46a5e2-3f0f-4522-ac9e-8f07cfdb7104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

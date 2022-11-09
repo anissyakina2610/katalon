@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Update PasswordUsernameAdminCurrent Pas_5fa39c</name>
+   <tag></tag>
+   <elementGuidId>4691babf-8937-4ff0-8f1f-f93a5d1a8b17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cc1f186-380d-4e78-89f3-fa9b6bfef34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>e7dc9c6c-a44e-40f2-8dbd-3e0b103fbb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update PasswordUsernameAdminCurrent PasswordStrongest PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save </value>
+      <webElementGuid>d10f75bc-cc80-4ec9-ab68-5f66ac3a2889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>b8ec05c5-38cd-4527-b1f1-95fc653d2523</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>aa938a8c-e1e9-4d5b-8316-1c81f45878c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>46bcd81d-93a2-4e53-8fdc-432fb2252856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>24d4b19e-19be-4f0f-89d3-18f380184674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Update PasswordUsernameAdminCurrent PasswordStrongest PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save ' or . = 'Update PasswordUsernameAdminCurrent PasswordStrongest PasswordFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save ')]</value>
+      <webElementGuid>e9ade3dd-6190-4a03-a81c-2eb63ece327f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Corporate BrandingPrimary ColorSecondar_a4527b</name>
+   <tag></tag>
+   <elementGuidId>ed3a8539-ae3d-404d-a519-8bb01e06220f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f404b5f4-9abb-4a14-8c80-55521390e911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>075c22d8-2ca9-4a17-b662-1c964fca1ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporate BrandingPrimary ColorSecondary ColorPrimary Font ColorSecondary Font ColorPrimary Gradient Color 1HEXPrimary Gradient Color 2Client LogoBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 50px X 50pxClient BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 182px X 50pxLogin BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 340px X 65pxSocial Media Images * Required Reset to Default  Preview  Publish </value>
+      <webElementGuid>745d0af3-764b-465a-a401-c1ad9d1fb222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>61ad3179-c289-46de-ae79-8959211091fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>c147c26d-9027-4b03-b65f-88197db524c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[4]</value>
+      <webElementGuid>50e2fe8f-3fef-4b85-a3c0-b30ee931f206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[4]</value>
+      <webElementGuid>a762ffc9-dbbf-4faa-97f0-0e67af0bb5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>fc46ed67-1b5a-442d-adcf-82d1a6034b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Corporate BrandingPrimary ColorSecondary ColorPrimary Font ColorSecondary Font ColorPrimary Gradient Color 1HEXPrimary Gradient Color 2Client LogoBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 50px X 50pxClient BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 182px X 50pxLogin BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 340px X 65pxSocial Media Images * Required Reset to Default  Preview  Publish ' or . = 'Corporate BrandingPrimary ColorSecondary ColorPrimary Font ColorSecondary Font ColorPrimary Gradient Color 1HEXPrimary Gradient Color 2Client LogoBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 50px X 50pxClient BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 182px X 50pxLogin BannerBrowseNo file selectedAccepts jpg, .png, .gif, .svg up to 1MB. Recommended dimensions: 340px X 65pxSocial Media Images * Required Reset to Default  Preview  Publish ')]</value>
+      <webElementGuid>58b65873-2f04-4f07-a0fe-927a3ae8cead</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

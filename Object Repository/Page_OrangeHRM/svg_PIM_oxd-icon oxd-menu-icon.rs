@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_PIM_oxd-icon oxd-menu-icon</name>
+   <tag></tag>
+   <elementGuidId>a7d61a3f-7a87-4433-9bc9-1ff9c093d348</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.oxd-icon.oxd-menu-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>07504ca5-589f-4ebc-ac75-136ee3a9abee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>332eb6c1-97c0-4f76-afee-e6d63ff80c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>05845f96-e54e-453e-a809-4b3668ae7fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>9f399866-43ff-4f3a-8661-a415c5287ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 500 500</value>
+      <webElementGuid>ee5ef273-48a2-4a8d-aef1-1afb8d4fdcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c45f3c23-a981-42c7-9e72-af07a1a6da92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon oxd-menu-icon</value>
+      <webElementGuid>b8cee244-01b2-4b3e-aacf-083c01b3b393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/div[@class=&quot;oxd-main-menu --fixed&quot;]/div[@class=&quot;oxd-main-menu-search&quot;]/svg[@class=&quot;oxd-icon oxd-menu-icon&quot;]</value>
+      <webElementGuid>440baf12-01f8-4697-92df-d09140eb4274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>2ce41b55-c471-44f3-81ad-022fdb6eae22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

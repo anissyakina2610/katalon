@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Directory</name>
+   <tag></tag>
+   <elementGuidId>54b2b0c2-1f60-4fd3-a4cd-0a63eb032eb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.oxd-text.oxd-text--h5.oxd-table-filter-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>ed67100e-a1c2-443f-966a-2eaa5a7933fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--h5 oxd-table-filter-title</value>
+      <webElementGuid>008abb89-73ab-42d6-8d01-adef30221407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Directory</value>
+      <webElementGuid>6dce8619-6431-42f2-b55c-1f87640fea6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-header&quot;]/div[@class=&quot;oxd-table-filter-header-title&quot;]/h5[@class=&quot;oxd-text oxd-text--h5 oxd-table-filter-title&quot;]</value>
+      <webElementGuid>78a5b8df-7104-41b2-a4b8-600f66d7c9fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/h5</value>
+      <webElementGuid>65763c27-a03a-4d15-8c9a-6fb7c2d6676f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a322cc81-815d-4312-a0aa-5fca9a089680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Title'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a0f63cfe-f060-40f4-8be6-f936d09bd1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>0bc9301e-eec0-4527-b3dc-c61949e558ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Directory' or . = 'Directory')]</value>
+      <webElementGuid>d847c367-f33c-40dd-9b68-dadc018d8c22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

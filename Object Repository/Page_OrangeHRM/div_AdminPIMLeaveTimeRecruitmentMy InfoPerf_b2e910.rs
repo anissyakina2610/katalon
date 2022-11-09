@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AdminPIMLeaveTimeRecruitmentMy InfoPerf_b2e910</name>
+   <tag></tag>
+   <elementGuidId>62e21f24-bb53-4cb3-a53d-b75705fe25cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26d953b4-654a-4275-a64d-10f447bd2202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout</value>
+      <webElementGuid>61c31ccb-cf74-48cc-8b2a-51812866ea78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzPIMPaul CollingsConfiguration Employee ListAdd EmployeeReportsUpdate PasswordUsernameAdminCurrent PasswordVery Weak PasswordShould have at least 8 charactersFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>a328f543-be30-4c1c-b8fc-b06abbb43969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]</value>
+      <webElementGuid>21db0d15-9ae1-44fe-abe1-73dedaf9c517</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div</value>
+      <webElementGuid>8a9877de-39b6-4543-bcad-254fc5835680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>36923657-5383-47c5-a3ab-d61c78822b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzPIMPaul CollingsConfiguration Employee ListAdd EmployeeReportsUpdate PasswordUsernameAdminCurrent PasswordVery Weak PasswordShould have at least 8 charactersFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.' or . = 'AdminPIMLeaveTimeRecruitmentMy InfoPerformanceDashboardDirectoryMaintenanceBuzzPIMPaul CollingsConfiguration Employee ListAdd EmployeeReportsUpdate PasswordUsernameAdminCurrent PasswordVery Weak PasswordShould have at least 8 charactersFor a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbersConfirm Password * Required Cancel  Save OrangeHRM OS 5.1© 2005 - 2022 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>cda19824-5341-4649-a7b7-2c9b86f572c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

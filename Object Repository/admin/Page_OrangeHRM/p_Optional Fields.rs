@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Optional Fields</name>
+   <tag></tag>
+   <elementGuidId>c90d6065-1a04-4fd8-b04c-b9e5a83e3741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.orangehrm-main-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3b312099-ba3c-49ba-92b4-b012243b69ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p orangehrm-main-title</value>
+      <webElementGuid>dee84060-14e7-43ed-9e94-54682321b5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Optional Fields</value>
+      <webElementGuid>f7ed1e4f-cdac-414c-9855-54fa50e04ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/p[@class=&quot;oxd-text oxd-text--p orangehrm-main-title&quot;]</value>
+      <webElementGuid>cf2e696d-acfa-4ac8-9de7-f951d080b37f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/p</value>
+      <webElementGuid>46eee7f5-906d-41d5-bcbe-680d4b9ccdd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::p[1]</value>
+      <webElementGuid>59081eba-d50c-4ae0-8018-ae8d01ff65b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Optional Fields']/parent::*</value>
+      <webElementGuid>957f8182-3191-4667-99be-66569b0b1358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>59009ac5-9e13-4bc3-86a2-4427b60ac352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Optional Fields' or . = 'Optional Fields')]</value>
+      <webElementGuid>319850fe-3892-46cd-b99d-43a4d18b4e1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

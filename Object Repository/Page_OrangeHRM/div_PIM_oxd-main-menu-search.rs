@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PIM_oxd-main-menu-search</name>
+   <tag></tag>
+   <elementGuidId>ce550247-309f-49e8-adb9-cc92112ac910</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-main-menu-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5230cacc-6210-4387-b6e0-1c81420188a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-main-menu-search</value>
+      <webElementGuid>3f128242-54bb-449c-a48f-fd980b2c564b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/div[@class=&quot;oxd-main-menu --fixed&quot;]/div[@class=&quot;oxd-main-menu-search&quot;]</value>
+      <webElementGuid>e68dd94d-2d98-44ef-8ad7-23a0a544a5c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/div/div</value>
+      <webElementGuid>4698f90e-6cef-4264-ad70-04ca9086d704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/preceding::div[4]</value>
+      <webElementGuid>903ab794-293b-45c8-ab26-f0b6381887a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/div/div</value>
+      <webElementGuid>581da604-b4fe-49dd-8a9c-0786892b13d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

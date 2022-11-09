@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Admin</name>
+   <tag></tag>
+   <elementGuidId>845f7458-7f11-498e-968f-c0b208be1228</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h6.oxd-text.oxd-text--h6.oxd-topbar-header-breadcrumb-module</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div/span/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>aeab9a64-85c1-4d73-9fbf-475d15ea0dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module</value>
+      <webElementGuid>bdcdeb05-3809-4478-99eb-6b0829063155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>b3960cdb-1863-41d3-8c0d-eb96edc0bb65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-title&quot;]/span[@class=&quot;oxd-topbar-header-breadcrumb&quot;]/h6[@class=&quot;oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module&quot;]</value>
+      <webElementGuid>eac68afd-e752-4e6e-8de7-b0c97ee916e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div/span/h6</value>
+      <webElementGuid>821b5d4e-7008-46fe-86ff-943e54c61b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/preceding::h6[1]</value>
+      <webElementGuid>cbb768e9-5858-498d-87a2-af7bd7c6b65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job'])[1]/preceding::h6[1]</value>
+      <webElementGuid>bcc2fe47-9d1d-49c2-be86-66770c806fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>b24b084f-1bb0-49b1-bbb9-e71da16ed83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>7d5a7d1a-24be-40b9-9a87-3b8db8957035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
